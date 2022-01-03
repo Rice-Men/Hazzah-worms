@@ -5,3 +5,17 @@
 ol {
   font-size: x-large
 }
+
+.text {
+  border-radius: 5px;
+  border: 2px solid black;
+}
+
+.correct {
+  border: 2px dotted green;
+  color: green; 
+}
+
+.none {
+  display: none;
+}
